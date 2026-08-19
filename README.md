@@ -88,12 +88,7 @@ otherwise it auto-closes ~4 seconds after the goal is reached.
 ## 6. Recording the demo video (60–90s)
 
 Suggested flow matching the video guidelines:
-1. **0–15s:** voiceover — team members, GitHub repo link, Track (Track 1: Warehouse Logistics Agent, A* Search), environment setup (`pip install -r requirements.txt && python main.py`).
-2. **15–70s:** run `python main.py` with the pygame window and a terminal
-   window (showing the live A* log) both visible side by side. Let it run
-   through initial route planning → forklift moving toward the loading bay →
-   shelf blockage appears → live replanning → package delivered.
-3. **70–90s:** highlight the printed performance metrics (path cost, nodes expanded, time taken, replans).
+
 
 ## 7. Project structure
 
