@@ -109,9 +109,9 @@ astar_grid_agent/
 
 ## 8. Team
 
-- Member 1: Akash Ganesh
-- Member 2: Aleena Elsa Benoy
-- Member 3: Aman
+- Member 1: Akash Ganesh 2441604
+- Member 2: Aleena Elsa Benoy 2441605
+- Member 3: Aman 2441606
 - Group ID: Team 02
 - Course Code: BCA301-5
 
