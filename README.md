@@ -109,9 +109,9 @@ astar_grid_agent/
 
 ## 8. Team
 
-- Member 1: _name_
-- Member 2: _name_
-- Member 3: _name_
-- Group ID: _fill in_
-- Course Code: _fill in_
+- Member 1: Akash Ganesh
+- Member 2: Aleena Elsa Benoy
+- Member 3: Aman
+- Group ID: Team 02
+- Course Code: BCA301-5
 - GitHub Repository: _fill in URL after pushing_
